@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Ayush Tiwari a developer
+- 👋 Hi, I’m Ayush Tiwari
+    
 - 👀 I’m interested in Web Developer and Data Analysit
+      
+   I am 3rd year student of   Bachelor of Engineering from Institute of Engineering and Technology , Khandari Campus Agra.
+   
 - 🌱 I’m currently learning Java Advance and other programming language.
 - 📫 You can contact me by mail- anay313673@gmail.com
-
+-  My Instagram Page : 
+        https://www.instagram.com/@mr.__ayush_tiwari/
+        
 
 <!---
 Ayush8887/Ayush8887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
